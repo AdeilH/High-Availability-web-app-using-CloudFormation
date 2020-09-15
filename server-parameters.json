@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+  },
+  {
+    "ParameterKey": "S3ZipFile",
+    "ParameterValue": "s3://udagram-adeel/Udagram.zip"
+  }
+]
